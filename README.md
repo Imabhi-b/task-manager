@@ -1,20 +1,22 @@
 # Task Manager
 
-A simple and efficient task management web app to help you stay organized and productive.
+A simple web-based task management app to efficiently track and manage your to-dos.
 
-## ✨ Features
+## 🔗 Live Demo
 
-- 📝 Create, edit, and delete tasks
-- ✅ Mark tasks as complete
-- 📅 Track your progress with a clean UI
-- 💾 Data persistence (coming soon)
+👉 [Preview Link](https://task-manager-nu-lilac.vercel.app/)
 
-## 🚀 Tech Stack
+## Features
 
-- **React**
-- **TypeScript**
-- **Vite**
-- **HTML5/CSS3**
+- Add, update, delete tasks
+- Mark tasks as complete
+- Persistent storage (coming soon!)
+
+## Tech Stack
+
+- React
+- TypeScript
+- Vite
 
 ## 📦 Installation
 
@@ -25,6 +27,12 @@ git clone https://github.com/Imabhi-b/task-manager.git
 cd task-manager
 npm install
 
+````
+
 ## 🧪 Run Locally
+
+Start the development server:
+
 ```bash
 npm run dev
+```
